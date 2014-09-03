@@ -1,6 +1,7 @@
 <?php
 echo('foo');
 
-function jump() {
+function jump() 
+{
   echo('pyon pyon.');
 }
