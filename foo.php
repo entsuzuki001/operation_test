@@ -1,5 +1,5 @@
 <?php
-echo('foo');
+echo('foo?');
 
 function jump() 
 {
